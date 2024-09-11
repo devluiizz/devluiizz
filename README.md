@@ -8,7 +8,7 @@
   
  💻 Atualmente realizo projetos  <strong>FontEnd</strong> utilizando <strong>HTML, CSS e JavaScript</strong>.
 
- 🎨 Possuo habilidas com <strong>UX/UI Design</strong>.
+ 🎨 Possuo habilidades com <strong>UX/UI Design</strong>.
  
 </div>
 
