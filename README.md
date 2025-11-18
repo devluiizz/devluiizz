@@ -27,12 +27,12 @@
 
 ## 👨‍💻 Sobre Mim
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" height="290" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```typescript
 const luiz = {
   nome: "Luiz Felipe de Oliveira",
-  formacao: "Engenharia de Software 🎓",
+  formacao: "Cursando Engenharia de Software 🎓",
   stack: "Evoluindo para Full Stack 🚀",
   paixoes: [
     "UI/UX Design ✨",
