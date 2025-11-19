@@ -27,8 +27,6 @@
 
 ## 👨‍💻 Sobre Mim
 
-<img align="right" alt="Coding" height="290" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 ```typescript
 const luiz = {
   nome: "Luiz Felipe de Oliveira",
