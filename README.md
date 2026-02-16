@@ -164,33 +164,6 @@ const luiz = {
 
 </div>
 
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devluiizz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" alt="GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devluiizz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF" alt="Most Used Languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devluiizz&theme=tokyonight&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devluiizz&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFFFFF" alt="Activity Graph"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=devluiizz&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-
-</div>
-
----
 
 ---
 
